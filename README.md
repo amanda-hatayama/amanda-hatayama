@@ -3,9 +3,9 @@
 # ❤ Olá! É bom ter você por aqui!
 
 
-- 👩‍💻 Em Transição de Carreira.
+- 👩‍💻 Em Transição de Carreira 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo Front-End.
+- 🌱 Aprendendo tecnologias Front-End.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
@@ -22,3 +22,9 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+---
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-hatayama&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Amanda-Hatayama&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
