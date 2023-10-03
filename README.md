@@ -1,9 +1,11 @@
-<img src = "banner.gif" widht = "300px" align = "center">
+<img src = "banner.gif" widht = "325px" align = "right">
 
 #❤ Olá! É bom ter você por aqui!
--
--🌱 Aprendendo Front-End
--
+
+
+-👩‍💻 Em Transição de Carreira.
+-📚 Estudante de Análise e Desenvolvimento de Sistemas.
+-🌱 Aprendendo Front-End.
 
 ---
 
